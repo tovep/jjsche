@@ -1,4 +1,4 @@
 jjsche
 ======
 
-jjsche is jsch's learning materials
+jjsche is jsch's learning materials!
